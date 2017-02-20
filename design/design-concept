@@ -1,0 +1,29 @@
+## Design Concept
+
+This webite will be a product page for an ficticious company that sells fancy handmade cat collars made in Seattle. The homepage will feature poloroid-esque images with captions underneath of cats wearing fancy collars to appeal to the "crazy cat lady" audience of ages 20-40 and of middle class income. The website will contain 6 pages: Homepage, About, Product, Gallery, FAQ, and Contact Us. 
+
+A company name has not been decided as of 02/19/17. 
+
+The logo and name will be simple and distinctive of what the product is and who its for (a fancy cat collar for cats). The style of the page will remain as a handcrafted/photo driven feel to emphasize that the product is also handmade. Colors will remain a neutral a pallete with some light pastel variations of cyan, magenta, and yellow. Font choice will be san-serif, clean, and easy to read.
+
+## Details
+
+###Pages
+1. Homepage - Poloraid theme, image driven of product and cats. Testimonials on the lower half of the page, along with fun trivia or quiz of cat related questions. Footer will contain typical company information, location, an how to reach the company. 
+2. About - Information about the company and details of how the product is made, and how its safe for your cat (break away collar, glow in the dark, non-toxic).
+3. Product - Where you can find all the product variations and to add it to your shopping cart. Will have a left column sort feature for color, size, and material.
+4. FAQ - Information of commonly asked questions, such as returns, exchanges, and figurinng out what size collar your cat should wear.
+5. Gallery - Customer submission of photos of cats wearing the fancy cat collars.
+6. Contact Us - Information of how to contact the company for questions, concerns, or a friendly comment.
+
+### Images
+Will utilized images from stock photos as well as giving attributions to any images used from other resources. 
+
+### Libraries
+* jQuery to bring subtle animation to the page and validation
+* Bootstrap for a responsive page and use the grid
+* Angular JS to replace DOM manipulation and control behaviors
+* More Libraries to be incorporated 
+
+
+
