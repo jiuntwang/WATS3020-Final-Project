@@ -18,4 +18,4 @@ Use at least **one event listener to respond to a user's click.** (This could be
 Use an animation library to do a vertical scrolling animation.
 Use another special library to make a very specific presentation that would not be possible without JavaScript.
 
-#### This a four week project that involves: Design Planning, Mobile Friednly Layout Research, Preview, and Completion.
+#### This a four week project that involves: Design Planning, Mobile Friendly Layout Research, Preview, and Completion.
