@@ -37,3 +37,10 @@
   }
 }
 
+
+/* Gallery Customizations */
+.col-md-12 {
+   text-align: center;
+   margin-bottom: 40px;
+}
+
